@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://shrutisureshan.medium.com](https://shrutisureshan.medium.com)
 
-- 📫 How to reach me **shrutisureshan@gmail.com**
+- 📫 Reach me at: **shrutisureshan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
