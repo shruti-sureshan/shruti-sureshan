@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Shruti Sureshan</h1>
-<h3 align="center">I'm a Machine Learning Enthusiast</h3>
+
+<!--![1](https://github.com/shruti-sureshan/shruti-sureshan/blob/main/assets/banner.gif) -->
+<h1 align="center">Hi there! 👋, I'm Shruti Sureshan</h1>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+- 🌱 I’m currently learning **Python, Machine Learning and AI**
 
 - 📝 I regularly write articles on [https://shrutisureshan.medium.com](https://shrutisureshan.medium.com)
+- 📌 I am interested in learning new technologies and build exciting real world projects
+- 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects
+- 💬 Ask me about anything related to tech , I would love to share my thoughts
 
 - 📫 Reach me at: **shrutisureshan@gmail.com**
 
@@ -33,5 +39,5 @@
 - [Oracle Certified Associate Java SE 8 Programmer](https://www.youracclaim.com/badges/38c3b790-6969-4411-8896-08f5c41b8de4/linked_in_profile)
 
 
-
+<h4 align="center"> Thanks for Visiting!!:innocent:</h4>
 
