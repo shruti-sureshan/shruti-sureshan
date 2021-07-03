@@ -1,5 +1,5 @@
 
-## My Projects and Repositories listed below
+## Projects and Repositories:
 
 | SL No | Project Name | Description | Tech Stack |Link |
 | ------ | ------------ | ------ | ----- | -------- |
