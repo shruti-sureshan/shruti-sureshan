@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning and AI**
 
-- 📝 I regularly write articles on [https://shrutisureshan.medium.com](https://shrutisureshan.medium.com)
+- 📝 I regularly write articles on [Medium](https://shrutisureshan.medium.com)
 - 📌 I am interested in learning new technologies and build exciting real world projects
 - 📂 You can checkout my projects here: [Projects](https://github.com/shruti-sureshan/shruti-sureshan/blob/main/Projects.md)
 - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects
