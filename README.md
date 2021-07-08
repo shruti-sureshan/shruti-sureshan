@@ -19,6 +19,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/shruti-sureshan-48605517b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti-sureshan-48605517b" height="30" width="40" /></a>
 <a href="https://medium.com/@shrutisureshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shrutisureshan" height="30" width="40" /></a>
+ <a href="https://www.quora.com/profile/Shruti-Sureshan" target="blank"><img align="center" src="https://github.com/shruti-sureshan/shruti-sureshan/blob/main/assets/quora-icon.svg" alt="@shrutisureshan" height="30" width="40" /></a>
+   <a href="mailto:shrutisureshan@gmail.com" target="blank"><img align="center" src="https://github.com/shruti-sureshan/shruti-sureshan/blob/main/assets/mail-2569.svg" height="30" width="40" /></a>
+   <a href="https://www.hackerrank.com/shrutisureshan" target="blank"><img align="center" src="https://github.com/shruti-sureshan/shruti-sureshan/blob/main/assets/4373713_hackerrank_logo_logos_icon.svg" height="30" width="40" /></a>
+
 </p>
 
 
