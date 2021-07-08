@@ -54,6 +54,8 @@
 ## My Certifications :arrow_down:
 
 - [Oracle Certified Associate Java SE 8 Programmer](https://www.youracclaim.com/badges/38c3b790-6969-4411-8896-08f5c41b8de4/linked_in_profile)
+- [Python for Machine Learning by E&ICT IIT Roorkee](https://drive.google.com/file/d/1JX5n7SGvLnKGpHBR6cnHhTBLwX7xcMYn/view)
+- [Advanced Algorithms and Complexity by Coursera](https://drive.google.com/file/d/1iQH4dEENIQ97PyCva9vP91w_aqqClA9t/view)
 
 
 <h4 align="center"> Thanks for Visiting!!:innocent:</h4>
