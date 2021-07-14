@@ -10,7 +10,7 @@
 - 📝 I regularly write articles on [Medium](https://shrutisureshan.medium.com)
 - 📌 I am interested in learning new technologies and build exciting real world projects
 - 📂 You can checkout my projects here: [Projects](https://github.com/shruti-sureshan/shruti-sureshan/blob/main/Projects.md)
-- 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects
+<!-- - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects  -->
 - 💬 Ask me about anything related to tech , I would love to share my thoughts
 
 - 📫 Reach me at: **shrutisureshan@gmail.com**
@@ -32,7 +32,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti-sureshan&show_icons=true&locale=en&layout=compact" alt="shruti-sureshan" /> </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shruti-sureshan)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shruti-sureshan)](https://git.io/streak-stats) -->
 
 <a href="https://github.com/shruti-sureshan/cpp-basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shruti-sureshan&repo=cpp-basics&theme=light" />
