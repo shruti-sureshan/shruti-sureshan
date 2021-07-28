@@ -34,14 +34,14 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shruti-sureshan)](https://git.io/streak-stats) -->
 
-<a href="https://github.com/shruti-sureshan/cpp-basics">
+<!-- <a href="https://github.com/shruti-sureshan/cpp-basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shruti-sureshan&repo=cpp-basics&theme=light" />
 </a>
 
 
 <a href="https://github.com/shruti-sureshan/Python-course-projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shruti-sureshan&repo=Python-course-projects&theme=light" />
-</a>
+</a> -->
 
 
 ## My Recent Blog posts ✍️
