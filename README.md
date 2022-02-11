@@ -9,7 +9,6 @@
 
 - 📝 I regularly write articles on [Medium](https://shrutisureshan.medium.com)
 - 📌 I am interested in learning new technologies and build exciting real world projects
-- 📂 You can checkout my projects here: [Projects](https://github.com/shruti-sureshan/shruti-sureshan/blob/main/Projects.md)
 <!-- - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects  -->
 - 💬 Ask me about anything related to tech , I would love to share my thoughts
 
